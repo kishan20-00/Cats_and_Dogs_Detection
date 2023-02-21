@@ -4,7 +4,7 @@
 <break/>
 
 <p>The second notebook shows the way to prevent overfitting and to improve the performance with the validation set. Some of those techniques are:
-<li><ol>Image Augmentation</ol>
-    <ol>Early Stopping</ol>
-    <ol>Dropout</ol>
-</li></p>
+<ul style="list-style-type:disc"><li>Image Augmentation</li>
+    <li>Early Stopping</li>
+    <li>Dropout</li>
+</ul></p>
